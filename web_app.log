@@ -1,0 +1,16 @@
+{"level":"DEBUG","time":"2021-09-12T23:50:35.341+0800","caller":"web_app/main.go:23","msg":"logger init success..."}
+{"level":"ERROR","time":"2021-09-12T23:50:35.341+0800","caller":"mysql/mysql.go:23","msg":"connect mysqlDB failed","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2021-09-12T23:57:36.100+0800","caller":"web_app/main.go:23","msg":"logger init success..."}
+{"level":"ERROR","time":"2021-09-12T23:57:36.100+0800","caller":"mysql/mysql.go:23","msg":"connect mysqlDB failed","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2021-09-12T23:58:50.602+0800","caller":"web_app/main.go:23","msg":"logger init success..."}
+{"level":"ERROR","time":"2021-09-12T23:58:50.602+0800","caller":"mysql/mysql.go:23","msg":"connect mysqlDB failed","error":"sql: unknown driver \"mysql\" (forgotten import?)"}
+{"level":"DEBUG","time":"2021-09-12T23:59:16.515+0800","caller":"web_app/main.go:23","msg":"logger init success..."}
+{"level":"DEBUG","time":"2021-09-12T23:59:34.049+0800","caller":"web_app/main.go:23","msg":"logger init success..."}
+{"level":"DEBUG","time":"2021-09-13T08:47:05.749+0800","caller":"web_app/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2021-09-13T08:47:50.129+0800","caller":"web_app/main.go:34","msg":"logger init success..."}
+{"level":"DEBUG","time":"2021-09-13T08:51:43.768+0800","caller":"web_app/main.go:34","msg":"logger init success..."}
+{"level":"INFO","time":"2021-09-13T08:51:53.866+0800","caller":"logger/logger.go:70","msg":"/hello","status":404,"method":"GET","path":"/hello","query":"","ip":"::1","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36","errors":"","cost":0.000032406}
+{"level":"INFO","time":"2021-09-13T08:51:54.112+0800","caller":"logger/logger.go:70","msg":"/favicon.ico","status":404,"method":"GET","path":"/favicon.ico","query":"","ip":"::1","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36","errors":"","cost":0.000001955}
+{"level":"INFO","time":"2021-09-13T08:51:58.233+0800","caller":"logger/logger.go:70","msg":"/","status":200,"method":"GET","path":"/","query":"","ip":"::1","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36","errors":"","cost":0.000019904}
+{"level":"INFO","time":"2021-09-13T09:32:48.028+0800","caller":"web_app/main.go:62","msg":"Shutdown Server ..."}
+{"level":"INFO","time":"2021-09-13T09:32:48.031+0800","caller":"web_app/main.go:69","msg":"Server exiting"}
